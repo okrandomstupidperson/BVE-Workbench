@@ -8,9 +8,9 @@ color_scheme: dark
 search_enabled: true
 
 nav_external_links:
-  - title: GitHub Repository
-    url: https://github.com/okrandomstupidperson/BVE-Workbench
+  - title: "GitHub Repository"
+    url: "https://github.com/okrandomstupidperson/BVE-Workbench"
     opens_in_new_tab: true
-  - title: Discord Server
+  - title: "Discord Server"
     url: "https://discord.gg/Pf2G8wJSCC"
     opens_in_new_tab: true
