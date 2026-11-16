@@ -8,7 +8,7 @@ nav_order: 3
 BVE Workbench is at the very beginning of development. Whether you write C#, build OpenBVE routes, or just want to test early builds and share feedback, you're welcome to join.
 
 ## How to Join the Discord
-1. **Join the [Discord Server]([YOUR-DISCORD-INVITE-LINK])**
+1. **Join the [Discord Server](https://discord.gg/Pf2G8wJSCC)**
 2. **Fill out the short [Application Form](https://forms.gle/NYmdehKfMj7Wdojo8)**
 3. **Open a ticket** in Discord and paste the **7-character code** shown at the end of the form
 
